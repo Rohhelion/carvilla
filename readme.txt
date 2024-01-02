@@ -37,6 +37,4 @@ This template is released under the [Free License](https://www.themesine.com/lic
 
 ![CarVilla Preview](link_to_preview_image)
 
----
 
-Feel free to customize this README to fit the specific details of your project. Include a preview image, and update any relevant links. Make sure to provide clear information for users to understand and utilize your CarVilla template effectively.
